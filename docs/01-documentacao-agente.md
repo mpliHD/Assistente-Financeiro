@@ -61,7 +61,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | Streamlit |
-| LLM | Deepseek (via API) |
+| LLM | Ollama (Local) |
 | Base de Conhecimento | JSON/CSV mockados |
 | Revisão dos dados | Recalcula se necessário para ter certeza no que está fazendo |
 | Validação | Checagem de alucinações |

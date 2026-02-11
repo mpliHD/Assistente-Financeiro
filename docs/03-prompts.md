@@ -47,7 +47,7 @@ Regras:
 
 **Agente:**
 ```
-"Nossa, realmente, acabei confundindo algumas coisas, só um momento que estou procurando minha falha....."
+"Nossa, realmente, acabei confundindo algumas coisas, só um momento que estou procurando minha falha..."
 ```
 
 ---

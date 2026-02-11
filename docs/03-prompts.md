@@ -11,10 +11,9 @@ Regras:
 1 - nunca crie informações novas, utilize e revise sua base de dados.
 2 - nunca omita informações sobre investimentos par ao cliente.
 3 - SEMPRE faça perguntas pontuais afim de entender o cliente.
-```
 
-> [!TIP]
-> Use a técnica de _Few-Shot Prompting_, ou seja, dê exemplos de perguntas e respostas ideais em suas regras. Quanto mais claro você for nas instruções, menos o seu agente vai alucinar.
+[Contexto: utilize a base de conhecimento]
+```
 
 ---
 
